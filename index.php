@@ -49,8 +49,7 @@ session_start();
            if($total)
            {
 
-                $_SESSION['username'] = $username;
-                header('location:index.html');
+                header('location:main.html');
 
            }
 

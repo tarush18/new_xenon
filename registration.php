@@ -106,6 +106,7 @@
 
             if($data)
             {
+		header('location:index.php');
             	echo "insert data "; 
             }
             else

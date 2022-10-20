@@ -22,7 +22,7 @@ session_start();
            	<input type ="password" name="password" class="textfield" placeholder="Password">
            	<input type ="submit" name="login" value="Login" class="btn">
 
-           	<div class="signup">New Member ? <a href ="registration.php" class="link">Sign Up</a></div>
+           	<div class="signup">New Member ? <a href ="https://website-car.herokuapp.com/registration.php" class="link">Sign Up</a></div>
 
            </div>
            </div>

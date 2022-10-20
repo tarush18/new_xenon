@@ -1,9 +1,9 @@
 <?php
 error_reporting(0);
-	$servername = "localhost";
-	$username = "root";
-	$password ="";
-	$dbname ="car_selling";
+	$servername = "ec2-44-210-228-110.compute-1.amazonaws.com";
+	$username = "dpekwoiqzanyaq";
+	$password ="2c2817110da54a26c7875bf475083fccca555f2eab41e5bf3bf69ffec9e19f6b";
+	$dbname ="d12v0us8kedq7j";
 
 	$check_connect=mysqli_connect($servername , $username , $password , $dbname);
 

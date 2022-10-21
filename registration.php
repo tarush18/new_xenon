@@ -106,7 +106,7 @@
 
             if($data)
             {
-		header('location:index.php');
+		header('location:https://website-car.herokuapp.com/index.php');
             	echo "insert data "; 
             }
             else

@@ -49,7 +49,7 @@ session_start();
            if($total)
            {
 
-                header('location:main.html');
+                header('location:https://website-car.herokuapp.com/main.html');
 
            }
 
